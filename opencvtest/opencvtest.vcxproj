@@ -147,7 +147,6 @@
   <ItemGroup>
     <ClCompile Include="..\..\..\..\Downloads\Parallelians - Parallel Image Processing with MPI Project\Parallelians - Parallel Image Processing with MPI Project\Soucre Code\main.cpp" />
     <ClCompile Include="image_filters.cpp" />
-    <ClCompile Include="Source.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="image_filters.h" />
