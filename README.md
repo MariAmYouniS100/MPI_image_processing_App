@@ -2,7 +2,7 @@
 > This repository contains several image filters for image enhancement and faster processing using MPI and openCV laibraries
 
 # Prerequisites
-Before running the tests, ensure you have the following prerequisites installed on your system:
+Before running the project, ensure you have the following prerequisites installed on your system:
 - MPI laibrary x64.
 - openCV laibrary 4.0.9 version
 
